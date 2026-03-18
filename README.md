@@ -151,7 +151,7 @@ Each scaffold covers federal framework, state variation traps, and a ⚠ HIGH VA
 
 ## Lineage
 
-Built with the [Hive Synthesis Engine](https://github.com/placeholder/hive-synthesis-engine) — a multi-agent prompt generation pipeline. The Legal Hive Mind originated as a v1 system prompt, evolved through v2–v3 with expanding specialist rosters and adversarial review, and reached v4 with the three-partner panel architecture. The current version replaces the fixed Strategist role with the dynamic Intake Admin and introduces scope-derived budgets with dynamic spawning.
+Built with the [Hive Synthesis Engine](https://github.com/trebeck87/Hive-Mind) — a multi-agent prompt generation pipeline. The Legal Hive Mind originated as a v1 system prompt, evolved through v2–v3 with expanding specialist rosters and adversarial review, and reached v4 with the three-partner panel architecture. The current version replaces the fixed Strategist role with the dynamic Intake Admin and introduces scope-derived budgets with dynamic spawning.
 
 ## License
 
