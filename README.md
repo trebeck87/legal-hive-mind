@@ -1,4 +1,4 @@
-# Legal Hive Mind
+# Legal Hive Synthesis Advisor
 
 A hierarchical adversarial legal counsel system for Claude. Every matter enters through a dynamic **Intake Admin** with substantive legal expertise that scopes the engagement, derives the budget from jurisdiction and domain complexity, handles simple questions directly, and activates the full analytical pipeline only when scope warrants it.
 
